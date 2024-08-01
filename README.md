@@ -1,5 +1,10 @@
 # Practicando lógica de programación: Challenge Encriptador de texto
 
+## Tecnologías Utilizadas
+<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></span>
+
 ## Descripción
 
 Este proyecto fue creado como parte del curso de Alura Latam, titulado **"Practicando lógica de programación: Challenge Encriptador de texto"**. La aplicación permite encriptar y desencriptar mensajes usando un conjunto específico de reglas de transformación de texto.
@@ -47,13 +52,6 @@ Por ejemplo:
 
 3. **Copiar el mensaje**:
    - Haz clic en el botón "Copiar" para copiar el texto encriptado o desencriptado al portapapeles.
-
-
-## Tecnologías Utilizadas
-
-<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></span>
 
 ## Instalación
 
