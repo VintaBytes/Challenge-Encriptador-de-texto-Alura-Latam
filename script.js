@@ -11,6 +11,7 @@ function processText(action) {
     document.getElementById('output-text').innerText = outputText;
 }
 
+//----------------------------------------------------------------
 function encrypt(text) {
     return text.replace(/e/g, 'enter')
                .replace(/i/g, 'imes')
@@ -19,6 +20,7 @@ function encrypt(text) {
                .replace(/u/g, 'ufat');
 }
 
+//----------------------------------------------------------------
 function decrypt(text) {
     return text.replace(/enter/g, 'e')
                .replace(/imes/g, 'i')
@@ -27,6 +29,7 @@ function decrypt(text) {
                .replace(/ufat/g, 'u');
 }
 
+//----------------------------------------------------------------
 function copyText() {
     const outputText = document.getElementById('output-text').innerText;
     const textArea = document.createElement('textarea');
